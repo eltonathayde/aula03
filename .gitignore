@@ -1,0 +1,6 @@
+# Não quero mais ignorar todos os aquivos .txt
+# *.txt
+
+# ignorar o arquivo senha.txt
+senha.txt
+.git
